@@ -1,3 +1,2 @@
 # cardGame1
---> No GUI just yet! (need to watch and learn about it a bit more!)
--->If GUI version of this is released it'll be named "cardGameGUI1"
+A better version of this game has been implemented here (Named the higher or lower game) -> https://github.com/hegde-atri/CasinoGames
